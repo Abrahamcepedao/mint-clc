@@ -16,10 +16,10 @@
 
   /***********************************/
   // Customise the app by changing the following variables.
-  const TITLE = "Shapes";
-  const DESCRTIPTION = "A collection of shapes on the blockchain";
-  const HEADER_TITLE = "shapes.xyz";
-  const HEADER_LINK = "https://solarare.com";
+  const TITLE = "Creative Latinos Club";
+  const DESCRTIPTION = "A collection of creative latinos that aims to empower the community latino through creative projects.";
+  const HEADER_TITLE = "CLC";
+  const HEADER_LINK = "https://creativelatinos.club/";
   // Your image or GIF needs to be in the /public folder for this to work
   const IMAGE_LINK = "/example.gif";
   /***********************************/
